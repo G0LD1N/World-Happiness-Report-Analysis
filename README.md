@@ -1,4 +1,5 @@
-# World Happiness Report Analysis ( https://www.kaggle.com/datasets/unsdsn/world-happiness )
+# World Happiness Report Analysis 
+( https://www.kaggle.com/datasets/unsdsn/world-happiness )
 
 ## Project Goal
 The goal of this project is to perform data cleaning and exploratory data analysis (EDA) on the World Happiness Report dataset (pre-2019). The analysis aims to clean the data, handle missing values, and visualize trends in global happiness.
